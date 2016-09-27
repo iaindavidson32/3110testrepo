@@ -13,6 +13,7 @@ public class AddressBook {
 	}
 	
 	public static void main(String args[]) { 
+		//this is my main method
 		System.out.println("Address book");
 		AddressBook addressBook = new AddressBook();
 		BuddyInfo buddy = new BuddyInfo();

@@ -12,6 +12,10 @@ public class AddressBook {
 		buddies.remove(b);
 	}
 	
+	public void useless(){
+		//well isn't this great
+	}
+	
 	public static void main(String args[]) { 
 		//this is my main method isn't it lovely
 		System.out.println("Address book");
